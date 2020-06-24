@@ -1,0 +1,7 @@
+[appserver]
+will.be.replace
+
+[appserver:vars]
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/path/will/be/replace
+host_key_checking=false
