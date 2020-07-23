@@ -3,7 +3,7 @@
 ## Tasks
 
 1. Complete the Terraform stack to provide an EC2 instance in our AWS account
-2. Write the main part for the role that would provision Doker to the instance
+2. Write the main part for the role that would provision Docker to the instance
 3. Write the main part for the role that would deploy the container as provided below
 4. Solve the puzzle following the instructions inside the container.
 
